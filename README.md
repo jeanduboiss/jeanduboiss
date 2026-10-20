@@ -1,72 +1,42 @@
-# ¡Hola! Soy Jean Dubois (jxan) 👋
-### CEO de Velion | Full-stack Developer | Estudiante de ISIL
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Jean Dubois — General Manager at JD Digital Labs · Software Engineer · Lima, Peru" src="assets/header-light.svg" width="100%">
+</picture>
 
-Apasionado por crear soluciones digitales de alto rendimiento. Actualmente lidero **Velion**, transformando ideas en productos digitales escalables.
+<p align="center">
+  <samp>
+    <a href="https://labsjd.com">labsjd.com</a> ·
+    <a href="https://github.com/JD-Digital-Labs">@JD-Digital-Labs</a> ·
+    <a href="https://www.linkedin.com/in/jeanfrancodubois">linkedin</a> ·
+    <a href="mailto:contact@labsjd.com">contact@labsjd.com</a>
+  </samp>
+</p>
 
-- 🔭 **Actualmente:** Construyendo el ecosistema de [Velion](https://velionn.me).
-- 🎓 **Educación:** Estudiante de Ingeneria de Software en ISIL.
-- 👨‍💻 **Experiencia:** +2 años como desarrollador, enfocado en el despliegue de aplicaciones web modernas.
+- General Manager and co-founder of **[JD Digital Labs](https://github.com/JD-Digital-Labs)**, a software company based in Lima, Peru.
+- I lead the technical side of every project, from the data model to deployment and client handover.
+- Currently building multiple projects for companies across different industries.
+- Final-term Software Engineering student at **ISIL**.
 
-## 🚀 Velion
-Agencia digital dedicada al desarrollo de software y branding.
+### What we build
 
-### Proyectos destacados de la agencia:
-- **Sweet Franny:** Plataforma de repostería personalizada. [Ver Demo](https://sweetfranny.vercel.app)
-- **JABG:** Portafolio Personal Moderno [Ver Demo](https://jabg.vercel.app)
-- **Solugrifos S.A.C:** Landing page optimizada para servicios industriales en Perú.
+- **Business systems.** Internal platforms with roles, reporting and approval flows, tailored to how each company works.
+- **Mobile apps.** Native iOS and Android apps with Swift, React Native and Flutter, through to App Store and Google Play release.
+- **Websites and portals.** Corporate sites, landing pages and client portals, fast and built to rank.
+- **AI automation.** Assistants and agents that read documents, sort information and take repetitive work off teams.
 
-## 🛠️ Velion Forge (Discord App)
-Mi aplicación de Discord diseñada para potenciar la gestión de comunidades y herramientas para desarrolladores.
-- **Estado:** En desarrollo activo.
-- **Enfoque:** Automatización y herramientas integradas para servidores de alto tráfico.
+### How I work
 
-### Mi Setup & Skills
-- **Frontend:** React, Next.js (Vercel).
-- **Backend/Mobile:** Flutter, Python, Node.js.
-- **Entorno:** Windows 11 & macOS (MacBook Air M4).
-- **Herramientas de trabajo:** Git, MCP Servers, IA Agents.
+I follow **[Organic Driven Development (ODD)](https://github.com/Gentleman-Programming/gentle-ai#odd--keep-small-work-small)**, the methodology from Gentleman Programming.
 
-## 🛠️ Tecnologías y Herramientas
+- **Process sized to the work.** Small, well-understood changes ship directly. Larger features get one written spec that every step refers back to.
+- **Understand before changing.** Every change starts by exploring the existing system and its constraints.
+- **Test first.** A failing test defines the expected behavior before the code is written.
+- **Software clients can run.** Technical manuals, documentation and a full handover of accounts and access.
 
-### 🚀 Desarrollo & Frameworks
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Certifications
 
-### ☁️ Deployment & Herramientas
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- **Anthropic** — Claude Code in Action · Model Context Protocol: Advanced Topics · Introduction to Model Context Protocol · Claude with Google Vertex AI (2026)
+- **Google** — AI Professional Certificate · Cybersecurity Certificate · UX Design Certificate (2026)
+- **Cisco** — CCNAv7: Introduction to Networks (2024) · IT Essentials (2023)
 
-### 💻 OS & Entorno
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-
----
-
-## 📬 Contacto y Redes
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanfrancodubois)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
----
-
-
-
-<!--
-**jeanduboiss/jeanduboiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Full list on <a href="https://www.linkedin.com/in/jeanfrancodubois/details/certifications/">LinkedIn</a>.</sub>
