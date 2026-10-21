@@ -1,7 +1,13 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Jean Dubois — General Manager at JD Digital Labs · Software Engineer · Lima, Peru" src="assets/header-light.svg" width="100%">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
+    <img alt="JD Digital Labs" src="assets/logo-black.png" width="72">
+  </picture>
+</p>
+
+<h1 align="center">Jean Dubois</h1>
+
+<p align="center">General Manager at JD Digital Labs · Software Engineer · Lima, Peru</p>
 
 <p align="center">
   <samp>
